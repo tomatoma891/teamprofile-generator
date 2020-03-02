@@ -16,6 +16,8 @@ Final result as team.html profile
 4. Answer the command line prompts
 5. Select Exit from the menu when all employees have been entered
 6. Open the team.html file to view the output
+
+
 **Testing**
 Jest was used to validate classes Use 'npm run test' to run the tests
 
