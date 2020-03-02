@@ -18,6 +18,8 @@ Final result as team.html profile
 6. Open the team.html file to view the output
 **Testing**
 Jest was used to validate classes Use 'npm run test' to run the tests
+
+![](images/test.png)
 ![](team.gif)
 
 
