@@ -6,7 +6,7 @@ As a manager I want to generate a webpage that displays my team's basic info so 
 
 **Visuals:**
 Final result as team.html profile
-![] (images/team1.png)
-![] (images/team2.pmg)
+![](images/team1.png)
+![](images/team2.png)
 
 
