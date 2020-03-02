@@ -1,0 +1,31 @@
+{
+  "name": "employee-summary",
+  "version": "1.0.0",
+  "description": "Team generator command line application.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomatoma891/teamprofile-generator.git"
+  },
+  "author": "Tamara Sidorova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomatoma891/teamprofile-generator/issues"
+  },
+  "homepage": "https://github.com/tomatoma891/teamprofile-generator#readme",
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^3.0.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.0",
+    "jest": "^24.9.0",
+    "validator": "^12.0.0"
+  }
+}
